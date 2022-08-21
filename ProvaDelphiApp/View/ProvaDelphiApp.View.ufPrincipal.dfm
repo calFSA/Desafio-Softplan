@@ -20,7 +20,7 @@ object fPrincipal: TfPrincipal
   TextHeight = 13
   object menTarefas: TMainMenu
     Left = 160
-    Top = 120
+    Top = 104
     object Tarefa1: TMenuItem
       Caption = 'Tarefa 1'
       OnClick = Tarefa1Click
