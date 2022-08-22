@@ -35,9 +35,8 @@ Como objetivo para demonstrar domínio de operações em lote, foi cri
 O formulário contém:  
 
   - Uma grid com as colunas “idProjeto”, “NomeProjeto” e “Valor”;
-  - Um edit “Total R$” para mostrar a soma total da coluna “valor” da grid;  
+  - Um edit “Total R$” para mostrar a soma total da coluna “valor” da grid; 
   - Um botão “Obter total” para somar os valores da coluna “valor” da grid e atribuir para o edit “Total R$”. Utilize um laço para fazer a soma; 
-
   - Uma grid com as colunas “idProjeto”, “NomeProjeto” e “Valor”;
   - Um botão “Obter Total Divisões” para somar o total das divisões do registro seguinte pelo registro anterior e atribuir no edit “Total divisões R$”. Ex: 
       - Projeto 1 = 10,00 | Projeto 2 = 20,00 | Projeto3 = 30,00
