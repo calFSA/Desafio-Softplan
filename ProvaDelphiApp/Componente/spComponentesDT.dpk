@@ -33,8 +33,7 @@ requires
   dbrtl,
   FireDAC,
   FireDACCommonDriver,
-  FireDACCommon,
-  spComponentes;
+  FireDACCommon;
 
 contains
   spComponentesRegistro in 'spComponentesRegistro.pas';

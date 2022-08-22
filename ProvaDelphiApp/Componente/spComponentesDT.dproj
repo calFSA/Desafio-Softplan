@@ -96,7 +96,6 @@
         <DCCReference Include="FireDAC.dcp"/>
         <DCCReference Include="FireDACCommonDriver.dcp"/>
         <DCCReference Include="FireDACCommon.dcp"/>
-        <DCCReference Include="spComponentes.dcp"/>
         <DCCReference Include="spComponentesRegistro.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
